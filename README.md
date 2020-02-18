@@ -1,2 +1,3 @@
 # hello_world_basics
-This is a starter repository using Hello World
+The outline for learning activities includes creating a new branch and editing content.
+In this first edit, the readme file is updated.
